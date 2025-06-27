@@ -374,11 +374,11 @@ Jika project ini berguna untuk Anda, pertimbangkan untuk mendukung pengembangan 
 
 ### 🎉 **Dukung Project Ini**
 
-[![Saweria](https://img.shields.io/badge/☕_Saweria-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://saweria.co/reyhannazera16)
+[![Saweria](https://img.shields.io/badge/☕_Saweria-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://saweria.co/reyhannr)
 
 **Atau scan QR Code:**
 
-![Saweria QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://saweria.co/reyhannazera16)
+![Saweria QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://saweria.co/reyhannr)
 
 </div>
 
