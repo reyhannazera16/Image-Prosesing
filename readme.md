@@ -37,7 +37,7 @@ Advanced Image Processor Pro adalah aplikasi web berbasis Flask yang menyediakan
 
 | Original | Background Removed | Enhanced |
 |----------|-------------------|----------|
-| ![Original](https://res.cloudinary.com/dxbocw7av/image/upload/v1751018122/mark-ori_iqbwza.png) | ![Processed](https://res.cloudinary.com/dxbocw7av/image/upload/v1751018123/mark-remove_sbtkfd.png) | ![Enhanced]([demo/enhanced.jpg](https://res.cloudinary.com/dxbocw7av/image/upload/v1751018122/mark-enchanced_qwy93g.png) |
+| ![Original](https://res.cloudinary.com/dxbocw7av/image/upload/v1751018122/mark-ori_iqbwza.png) | ![Processed](https://res.cloudinary.com/dxbocw7av/image/upload/v1751018123/mark-remove_sbtkfd.png) | ![Enhanced](https://res.cloudinary.com/dxbocw7av/image/upload/v1751018122/mark-enchanced_qwy93g.png) |
 
 *Screenshot aplikasi akan segera ditambahkan*
 
